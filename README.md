@@ -36,7 +36,7 @@
 | :-----------------------------------------------------------------------------------------------: | :--: |
 | [AI 법률조언서비스, 헬로](https://github.com/skajd1/hellolaw)                                       | 2024 |
 | [나만의 작은 양파](https://github.com/my-little-onion/my-little-onion)                              | 2024 |
-| [개발자들을 위한 커뮤니티, Decode;](https://lab.ssafy.com/s10-webmobile2-sub2/S10P12A507.git)        |   2024 |
+| [개발자들을 위한 커뮤니티, Decode;](https://github.com/ssafy-decode/decode)        |   2024 |
 
 ## Stats
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skajd1)
