@@ -31,11 +31,6 @@
 </p>
 
 
-## Proejcts
-|                                              Project                                              | Year |
-| :-----------------------------------------------------------------------------------------------: | :--: |
-| [AI 법률조언서비스, 헬로](https://github.com/skajd1/hellolaw)                                       | 2024 |
-| [나만의 작은 양파](https://github.com/my-little-onion/my-little-onion)                              | 2024 |
 
 ## Stats
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skajd1)
